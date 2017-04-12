@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background-color: #3E606F;
+  background-color: #3E606f;
   text-align: center;
 }
 
@@ -74,7 +74,7 @@ nav ul li {
 }
 
 .card {
-  background-color: #3E606F;
+  background-color: #3E606f;
   border: 2px solid #fff;
   border-radius: 8px;
   color: #fff;
@@ -83,7 +83,7 @@ nav ul li {
 footer {
   font-size: .75rem;
   text-align: center;
-  background-color: #3E606F;
+  background-color: #3E606f
   color: #fff;
   padding: .5em;
 }
