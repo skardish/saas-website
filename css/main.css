@@ -51,9 +51,21 @@ nav ul li {
   left: 0;
 }
 
+.bannerh1 {
+  margin: 0;
+}
+
+.bannerp {
+  margin: .75rem;
+  margin-top: 0;
+}
+
 .btn {
   background-color: lightblue;
   border-color: white;
+  margin-bottom: 1rem;
+  display: inline-block;
+  text-align: center;
 }
 
 .btn:hover {
@@ -67,7 +79,6 @@ nav ul li {
   border-radius: 8px;
   color: #fff;
 }
-
 
 @media only screen and (min-width: 38em) {
 
