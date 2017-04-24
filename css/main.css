@@ -24,7 +24,7 @@ li a {
 }
 
 li a:hover {
-  background-color: yellow;
+  background-color: lightblue;
   color: black;
   padding: .25rem;
 }
@@ -70,7 +70,7 @@ nav ul li {
 }
 
 .btn:hover {
-  background-color: yellow;
+  background-color: lightblue;
   color: black;
 }
 
