@@ -1,5 +1,6 @@
 html {
   background-color: lightgrey;
+  font-family: 'Open Sans', sans-serif;
 }
 
 body {
@@ -7,7 +8,7 @@ body {
 }
 
 header {
-  background-color: #3E606f;
+  background-color: black;
   text-align: center;
 }
 
@@ -61,7 +62,7 @@ nav ul li {
 }
 
 .btn {
-  background-color: lightblue;
+  background-color: black;
   border-color: white;
   margin-bottom: 1rem;
   display: inline-block;
@@ -74,7 +75,7 @@ nav ul li {
 }
 
 .card {
-  background-color: #3E606f;
+  background-color: black;
   border: 2px solid #fff;
   border-radius: 8px;
   color: #fff;
@@ -83,7 +84,7 @@ nav ul li {
 footer {
   font-size: .75rem;
   text-align: center;
-  background-color: #3E606f
+  background-color: black;
   color: #fff;
   padding: .5em;
 }
