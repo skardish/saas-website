@@ -1,5 +1,5 @@
 html {
-  background-color: lightgrey;
+  background-color: black;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -24,8 +24,8 @@ li a {
 }
 
 li a:hover {
-  background-color: #0074d9;
-  color: #fff;
+  background-color: yellow;
+  color: black;
   padding: .25rem;
 }
 
@@ -70,15 +70,15 @@ nav ul li {
 }
 
 .btn:hover {
-  background-color: blue;
-  color: white;
+  background-color: yellow;
+  color: black;
 }
 
 .card {
-  background-color: black;
-  border: 2px solid #fff;
+  background-color: white;
+  border: 2px solid white;
   border-radius: 8px;
-  color: #fff;
+  color: black;
 }
 
 footer {
