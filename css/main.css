@@ -93,6 +93,11 @@ footer {
   text-align: center;
 }
 
+.font-table {
+  background-color: white;
+}
+
+
 @media only screen and (min-width: 38em) {
 
   h1 {
