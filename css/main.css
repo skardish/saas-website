@@ -97,6 +97,23 @@ footer {
   background-color: white;
 }
 
+.styling {
+  width: 1rem;
+  color: lightblue;
+}
+
+.styling-2 {
+  width: 1rem;
+  color: darkblue;
+}
+
+.table-head {
+  color: darkblue;
+}
+
+.caption {
+  text-align: center;
+}
 
 @media only screen and (min-width: 38em) {
 
