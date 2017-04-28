@@ -119,6 +119,14 @@ footer {
   color: darkblue;
 }
 
+.lightblue {
+  color: black;
+}
+
+.lightgrey {
+  background-color: lightblue;
+}
+
 @media only screen and (min-width: 38em) {
 
   h1 {
